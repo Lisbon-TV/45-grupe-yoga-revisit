@@ -4,4 +4,20 @@ footer {
     background-color: yellow;
     width:  1000px;
     margin-left: calc((100% - 1000px) / 2);
+    margin-bottom: 70px;
+}
+
+header {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+img {
+    float: left;
+}
+
+footer {
+    margin-bottom: 20px;
 }
